@@ -25,7 +25,7 @@ The **ESP32-S3-TBone** is a purpose-engineered development board built around th
 
 - **Maximize breadboard usable area** — dual-sided tie point access for all broken-out GPIOs.
 - **Signal integrity first** — 4-layer controlled-impedance stackup with dedicated ground and power reference planes.
-- **Manufacturing ready** — Gerber-optimized output with DFM rule compliance for standard PCB fabs (JLCPCB, PCBWay, OSH Park).
+- **Manufacturing ready** — Gerber-optimized output with DFM rule compliance for standard PCB fabs (JLCPCB, PCBWay, Norisolutions).
 - **Mechanical validation** — 3D collision-checked against standard 830-point breadboard models in Fusion 360.
 
 ---
