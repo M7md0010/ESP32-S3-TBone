@@ -44,6 +44,17 @@ The **ESP32-S3-TBone** is a purpose-engineered development board built around th
 | USB              | Native USB 2.0 OTG + UART via CH343P   |
 | GPIO             | Fully broken-out via dual header rows   |
 
+### Onboard Hardware Features & Peripherals
+
+- **I2C Interface:** Dedicated extracted socket/pins for fast and reliable I2C peripheral expansion.
+- **Servo Motor Headers:** Onboard header pins specifically broken out for direct servo motor control.
+- **Addressable RGB LEDs:** 2× onboard WS2812B RGB LEDs for customizable status indication and visual feedback.
+- **Flexible Power Inputs:** Power the board via either of the USB Type-C ports or directly through the header pins.
+- **Switchable Breadboard Power Rails:** Two mechanically fit pins designed to drop directly into the breadboard's power rails. Features a dedicated toggle switch to select between **3.3V** and **5V** logic levels for the breadboard.
+- **Main Power Switch:** Dedicated ON/OFF toggle switch for main board power.
+- **Programmable User Button:** A custom tactile push button hooked up with a pull resistor, ready to be programmed for user input.
+- **PTC Thermistors:** Onboard resettable fuses for robust overcurrent protection.
+
 ### 4-Layer PCB Stackup
 
 ```
