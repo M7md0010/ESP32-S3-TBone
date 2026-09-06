@@ -1,0 +1,64 @@
+# ============================================
+# KiCad — Temporary & auto-generated files
+# ============================================
+
+# Backup files
+*.bak
+*-save.kicad_pcb
+*-save.kicad_sch
+
+# Auto-save files
+_autosave*
+\#auto_saved_files\#
+
+# Lock files
+*.lck
+~*.lck
+
+# Project local settings (user-specific, not portable)
+*.kicad_prl
+
+# Netlist & intermediate files
+*.net
+*.dsn
+*.ses
+
+# ============================================
+# CAD / 3D — Temporary files
+# ============================================
+*.FCStd1
+*.fcbak
+*.3mf.bak
+*.tmp
+
+# Fusion 360 cache
+*.f3d.bak
+*.f3z.bak
+
+# ============================================
+# OS — System files
+# ============================================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# ============================================
+# IDE / Editor files
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
