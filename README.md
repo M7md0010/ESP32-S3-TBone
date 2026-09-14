@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/MCU-ESP32--S3-blue?style=flat-square&logo=espressif" alt="ESP32-S3"/>
   <img src="https://img.shields.io/badge/PCB-4_Layer-green?style=flat-square" alt="4 Layer"/>
   <img src="https://img.shields.io/badge/EDA-KiCad_10-orange?style=flat-square&logo=kicad" alt="KiCad 10"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="MIT License"/>
+  <img src="https://img.shields.io/badge/License-Non--Commercial-red?style=flat-square" alt="Non-Commercial License"/>
 </p>
 
 ---
