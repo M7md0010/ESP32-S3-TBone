@@ -1,21 +1,78 @@
-MIT License
+ESP32-S3-TBone Non-Commercial License
 
-Copyright (c) 2026 M7md0010
+Copyright (c) 2026 M7md0010. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. DEFINITIONS
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+   "Design Files" refers to all hardware design files, schematics, PCB layouts,
+   Gerber files, BOM (Bill of Materials), 3D models, documentation, and any
+   associated software or firmware included in this repository.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+   "Personal Use" means use by an individual for private, non-commercial,
+   educational, or hobbyist purposes, where no monetary compensation or
+   commercial advantage is sought or obtained.
+
+   "Commercial Use" means any use intended for or directed toward commercial
+   advantage or monetary compensation, including but not limited to
+   manufacturing, producing, assembling, or selling products based on these
+   Design Files.
+
+2. GRANT OF LICENSE
+
+   Permission is hereby granted, free of charge, to any individual obtaining a
+   copy of these Design Files, to use, copy, modify, and share the Design Files
+   solely for Personal Use, subject to the conditions below.
+
+3. RESTRICTIONS
+
+   a. NO COMMERCIAL MANUFACTURING OR SALE: No person, company, corporation,
+      organization, or any other entity may use these Design Files, in whole or
+      in part, to manufacture, produce, assemble, or create products intended
+      for sale, resale, distribution for profit, or any other Commercial Use,
+      without prior written permission from the copyright holder.
+
+   b. NO SUBLICENSING FOR COMMERCIAL PURPOSES: You may not sublicense, lease,
+      or otherwise grant rights to any third party to use these Design Files
+      for Commercial Use.
+
+   c. ATTRIBUTION: All copies or substantial portions of the Design Files must
+      include this license notice and the above copyright notice.
+
+   d. NO TRADEMARK RIGHTS: This license does not grant permission to use the
+      trade names, trademarks, service marks, or product names of the copyright
+      holder.
+
+4. PERSONAL USE EXAMPLES (PERMITTED)
+
+   - Building the board for your own personal projects
+   - Modifying the design for educational or learning purposes
+   - Sharing modified designs with others under the same license terms
+   - Using the design as a reference for personal learning
+
+5. COMMERCIAL USE EXAMPLES (NOT PERMITTED WITHOUT WRITTEN PERMISSION)
+
+   - Manufacturing boards based on this design for sale
+   - Incorporating this design into a product offered for sale
+   - Offering assembly or manufacturing services using this design
+   - Using this design in products distributed by a company or organization
+
+6. REQUESTING COMMERCIAL USE PERMISSION
+
+   To obtain permission for Commercial Use, contact the copyright holder at:
+   https://github.com/M7md0010
+
+7. DISCLAIMER
+
+   THE DESIGN FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+   IN CONNECTION WITH THE DESIGN FILES OR THE USE OR OTHER DEALINGS IN THE
+   DESIGN FILES.
+
+8. TERMINATION
+
+   This license is automatically terminated if you violate any of its terms.
+   Upon termination, you must destroy all copies of the Design Files in your
+   possession.
